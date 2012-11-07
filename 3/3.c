@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 //Linked List Implenentation
+
 struct node {
     unsigned long long int data;
 	struct node *next;
